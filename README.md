@@ -1,0 +1,1 @@
+# O-dia-a-dia-de-um-Qa---A-pr-tica-de-testes-manuais-funcionais
