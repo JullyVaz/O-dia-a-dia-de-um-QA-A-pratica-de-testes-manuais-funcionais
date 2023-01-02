@@ -1,4 +1,4 @@
-# O-dia-a-dia-de-um-Qa---A-prática-de-testes-manuais-funcionais
+# O-dia-a-dia-de-um-Qa - A-prática-de-testes-manuais-funcionais
 
 Conforme solicitado, este projeto inclui:
 ✔ Plano de fluxo de trabalho desenvolvido e o ciclo de vida do bug;
