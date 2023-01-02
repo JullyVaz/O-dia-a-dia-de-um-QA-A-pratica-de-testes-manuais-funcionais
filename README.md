@@ -1,4 +1,4 @@
-# O dia a dia de um QA - A prática de testes manuaisfuncionais
+# O dia a dia de um QA - A prática de testes manuais funcionais
 
 Conforme solicitado, este projeto inclui:
 ✔ Plano de fluxo de trabalho desenvolvido e o ciclo de vida do bug;
